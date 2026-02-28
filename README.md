@@ -6,7 +6,7 @@ Actual state: Pre-alpha early development.
 
 Main webpage:
 
-Public releases: https://github.com/RedSpez/ScapeFromParadise/releases
+Public releases: [https://github.com/RedSpez/ScapeFromParadise/releases](https://github.com/RedSpez/Scape-From-Paradise---Public/releases/tag/Pre-Alpha)
 
 Changelog: https://github.com/RedSpez/ScapeFromParadise/blob/main/CHANGELOG
 
