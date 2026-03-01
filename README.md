@@ -8,7 +8,7 @@ Main webpage:
 
 Public releases: https://github.com/RedSpez/Scape-From-Paradise---Public/releases
 
-Changelog: https://github.com/RedSpez/ScapeFromParadise/blob/main/CHANGELOG
+Changelog: https://github.com/RedSpez/Scape-From-Paradise---Public/blob/main/CHANGELOG.txt
 
 Official wiki:
 
