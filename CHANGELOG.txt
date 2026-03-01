@@ -18,3 +18,36 @@ If you intend to share this on youtube... Sorry for the copyright! You'd better 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Version | v0.0.0.2
+
+*Changed version display format. (Old: Pre-Alpha 0.0.0.1 - New: v0.0.0.2 pre-alpha)
+
+*Now is finally posible to aim up and down.
+
+*Refined aiming and aiming while moving animations, making easier to shot precisely.
+
+*Added new mechanic: Slight weapon sway when aiming down sights. Weapons are intended to have some natural sway when trying to hit far away targets whitout the proper gear. 
+This shouldn't be a problem if you're trying to hit a target under 200mts away.
+
+*Added flashlight mechanic.
+
+*The demo map illumination has been reduced with the intent of testing the new flashlight.
+
+*The "options" button from the main menu is now available.
+
+*Added footsteps sound effects to the player movement.
+
+*Added tracers bullets that emit light and leaves a trace behind it's trayectory.
+
+*Added a death screen. After dying you can respawn or go back to the main menu.
+
+*Fixed a bug where the collision of the zombie dummys remained active after death. No more ghost haunting you!
+
+*Dead bodies don't collide with the player character anymore.
+
+*Now dead bodies disappear after 10 seconds. This is a pre-alpha feature only.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
