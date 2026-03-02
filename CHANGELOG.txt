@@ -1,12 +1,12 @@
 Changelog:
 
-****Pre-Alpha****
+#Pre-Alpha
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Version | v0.0.0.1
+Version | v0.0.0.1 | 28/02/2026
 
 *Features the first version of the game. It presents a main menu that let's you start the game. 
 
@@ -20,30 +20,32 @@ If you intend to share this on youtube... Sorry for the copyright! You'd better 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Version | v0.0.0.2
+Version | v0.0.0.2 | 1/03/2026
 
 *Changed version display format. (Old: Pre-Alpha 0.0.0.1 - New: v0.0.0.2 pre-alpha)
 
 *Now is finally posible to aim up and down.
 
-*Refined aiming and aiming while moving animations, making easier to shot precisely.
+*Polished aiming animations. Now is possible to have some precision when aiming.  
 
 *Added new mechanic: Slight weapon sway when aiming down sights. Weapons are intended to have some natural sway when trying to hit far away targets whitout the proper gear. 
-This shouldn't be a problem if you're trying to hit a target under 200mts away.
+This shouldn't be a problem if you're trying to hit a target under 250mts away.
 
-*Added flashlight mechanic.
+*Added a laser pointer for aiming the gun. (Default key "1")
 
-*The demo map illumination has been reduced with the intent of testing the new flashlight.
+*Added flashlight mechanic. (Default key "T")
+
+*The demo map illumination has been drastically reduced with the intent of testing the new flashlight and laser.
 
 *The "options" button from the main menu is now available.
 
 *Added footsteps sound effects to the player movement.
 
-*Added tracers bullets that emit light and leaves a trace behind it's trayectory.
+*Added tracers bullets effect.
 
-*Added a death screen. After dying you can respawn or go back to the main menu.
+*Added a pause menu where you can get access to the options and go back to the main menu.
 
-*Fixed a bug where the collision of the zombie dummys remained active after death. No more ghost haunting you!
+*Fixed a bug where the collision of the zombie dummys remained active after death. No more ghosts haunting you!
 
 *Dead bodies don't collide with the player character anymore.
 
