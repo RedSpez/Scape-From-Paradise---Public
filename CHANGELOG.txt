@@ -53,3 +53,27 @@ This shouldn't be a problem if you're trying to hit a target under 250mts away.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Version | v0.0.0.3 | 4/03/2026
+
+*"GASP+ALS V5" han been integrated as the new animation and locomotion system. This opens a new brand of procedural animations for the player character and implements new mechanics such as: climbing, 
+vaulting, crouch and many more movement dynamics that can be added in the future.
+
+*Changed the demo map to the default GASP level to test the new movement mechanics.
+
+*Background level music disabled.
+
+*Laser function has been disabled.
+
+*Changed keybind for the pause menu from "ESC" to "P". This is a pre-alpha feature only.
+
+*Added a new hud element that shows every keybind.
+
+*Migrated and expanded the stamina system.
+
+*Stamina system expansion: A second stamina bar has been implemented and it represents "the arms stamina" as it depletes when you're aiming with a gun, climbing or attacking with a melee weapon. For now, it
+only drains when aiming.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
