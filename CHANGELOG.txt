@@ -77,3 +77,32 @@ only drains when aiming.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Version | v0.0.0.4 | 4/03/2026
+
+*Re-organized HUD distribution. Stamina bars are smaller now.
+
+*Added health system and health bar to the HUD.
+
+*Reduced stamina consumption when jumping.
+
+*Increased stamina regeneration.
+
+*added aiming dot to the player HUD.
+
+*Integrated basic weapon and proyectiles system. Now is posible to shoot the rifle from the held items selection menu.
+
+*Added sound effect when shooting the rifle.
+
+*Reduced chance to spend all your stamina when spamming the space bar. This glitch will be patched soon.
+
+*Modified rifle proyectiles behavior. Now they go faster and have less bullet drop.
+
+*Replaced bullet visual effects. Now it a red tracer bullet.
+
+*Added "walk" and "crouch" to the keybinds display.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
