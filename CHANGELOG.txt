@@ -157,7 +157,7 @@ in the future. I really like the progress of this version but still a long road 
 
 *Modified movement, aiming and shooting behavior:
 
--Significantly reduced zoom when aiming. Zoom function has been transfered to a different keybind.
+-Removed zoom when aiming. Zoom function has been transfered to a different keybind.
 
 -Now you can only shoot when aiming.
 
@@ -165,7 +165,7 @@ in the future. I really like the progress of this version but still a long road 
 
 -Now you can't start to sprint while you're aiming.
 
-*Zoom in function transfered to "V" keybind.  Animation for the zoom transition is pending.
+*Zoom in function transfered to "V" keybind.  
 
 *Moved flashlight attach point to the head instead of the camera.
 
