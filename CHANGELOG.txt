@@ -126,3 +126,64 @@ Also will be avaliable in the future gamemode "Find shellter".
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#Version | v0.0.1.0 | 9/03/2026 | The movement update
+
+Here it is the first big update of the pre-alpha state. I was starting to get a little stagnant with the development of this version but I suddenly got a lot of inspiration and mental 
+clarity that allowed me to fix a bunch of problems I was having to implementent the stamina system properly and now it's finally done. But not only that, I managed to fix a bunch more of other issues
+and integrate a few mechanics that I've forgot to add before. I think I'm finally starting to understand the GASP system and with that a lot of important things will be faster and easier to do for me
+in the future. I really like the progress of this version but still a long road before finishing the pre-alpha state. Hopefully, this stage will not take me more than tree months. 
+
+*Fixed the bug that let you consume all your stamina when pressing space bar repeatedly.
+
+*Fixed infinite stamina bug. Now stamina work as intended when sprinting or aiming. 
+
+*Stamina is no longer depleted when pressing the space bar during any climbing action.
+
+*Climbing now depletes the arms stamina.
+
+*Reduced arms stamina consumption when aiming.
+
+*Reduced arms stamina recovery.
+
+*Significantly reduced stamina consumption when sprinting.
+
+*Reduced stamina recovery when running.
+
+*Increased stamina recovery when walking or standing still.
+
+*Now there's a slight delay to recover stamina after any amount of depletion. 
+
+*Modified movement, aiming and shooting behavior:
+
+-Significantly reduced zoom when aiming. Zoom function has been transfered to a different keybind.
+
+-Now you can only shoot when aiming.
+
+-Now you can't aim while you're sprinting.
+
+-Now you can't start to sprint while you're aiming.
+
+*Zoom in function transfered to "V" keybind.  Animation for the zoom transition is pending.
+
+*Moved flashlight attach point to the head instead of the camera.
+
+*Fixed aiming offset. Now bullets finally go to where you aim.
+
+*Added free directional movement when sprinting. Now you can change your movement direction quickly without moving the camera. 
+
+*Fixed a bug that caused to damage yourself when shooting while aiming to the ground.
+
+*Modified main menu layout added sounds when hovering and clicking on buttons.
+
+*Replaced level selection menu. Now it shows a map where you can choose between the different locations that will be avaliable in the future. The map was made using Inkarnate and the effects were
+added with AI. The image is a placeholder.
+
+*Removed GASP level.
+
+*Reduced aiming dot size.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
