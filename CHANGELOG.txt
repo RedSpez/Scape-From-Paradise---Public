@@ -1,7 +1,23 @@
 Changelog:
 
 #Pre-Alpha
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Version | v0.0.1.1 | 11/03/2026 
+
+*Total overhaul of the main menu. Now it showcases animations, sound effects and stylized background elements. 
+
+*Replaced options menu layout. Sub-options menus still pending.
+
+*Graphics options are not avaliable on this version. 
+
+*Added fade in/out transition when switching between menus.
+
+*Replaced "go back" button in the level selection menu.
+
+*Added new level: "Abandoned Island". Is located down to the left in the map and it showcases a small island with a lighthouse. This map is not intended to stay and only will be avaliable for testing
+purposes. PD: Climbing mechanics are totally broken on this map. 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
