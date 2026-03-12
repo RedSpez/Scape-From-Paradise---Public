@@ -16,6 +16,8 @@ Changelog:
 
 *Replaced "go back" button in the level selection menu.
 
+**Added background wind sounds to Faer.
+
 *Added new level: "Abandoned Island". Is located down to the left in the map and it showcases a small island with a lighthouse. This map is not intended to stay and only will be avaliable for testing
 purposes. PD: Climbing mechanics are totally broken on this map. 
 
