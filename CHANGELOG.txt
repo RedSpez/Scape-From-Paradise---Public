@@ -6,7 +6,7 @@ Changelog:
 
 #Version | v0.0.1.2 | 19/03/2026 
 
-*Added the second iteration of the map "Faer". The landscape was totally remade from a scratch and now it showcases building in ruins and a couple of main roads.
+*Added the second iteration of the map "Faer". The landscape was totally remade from a scratch and now it showcases ruined buildings and a couple of main roads.
 
 *Added replicated health system. Now the health system finally works as intended on multiplayer. There's no way of testing this change at this moment for the players.
 
