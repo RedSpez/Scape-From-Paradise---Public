@@ -4,6 +4,28 @@ Changelog:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Version | v0.0.1.2 | 19/03/2026 
+
+*Added second iteration of the map "Faer". The landscape was totally remade from a scratch and now it showcases building in ruins and a couple of main roads.
+
+*Added replicated health system. Now the health system finally works as intended on multiplayer. There's no way of testing this change at this moment for the players.
+
+*Fixed a bug that caused some bullets to not cause damage at all.
+
+*Added noise and noise detection system.
+
+*Added zombies with basic IA and animations that can be found around the spawn area. The zombies can hear the noise from the player and start chasing it from afar. For now, they can only detect the
+gun fire noise and the player itself when it's within their line of sight.
+
+*Reduced stamina regeneration when moving.
+
+*Fixed a bug when firing the assault rifle that caused the character to put the weapon down after every shot making imposibble to fire on single shots.
+
+*Added a respawn function. "H" key by default. This will be removed in the future.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Version | v0.0.1.1 | 11/03/2026 
 
 *Total overhaul of the main menu. Now it showcases animations, sound effects and stylized background elements. 
