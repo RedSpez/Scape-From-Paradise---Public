@@ -10,6 +10,8 @@ Changelog:
 
 *Reduced arms stamina comsumption when aiming. (35% less).
 
+*Increased arms stamina recovery delay. (1,5sec to 3sec)
+
 *Reduced minimum stamina required to jump and climb. (From 15 to 12).
 
 *Increased firing recoil. (x2 recoil as before).
