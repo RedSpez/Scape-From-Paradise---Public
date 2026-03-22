@@ -4,6 +4,34 @@ Changelog:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#Version | v0.0.1.3 | 22/03/2026 
+
+*Removed abandoned island map.
+
+*Reduced arms stamina comsumption when aiming. (35% less).
+
+*Reduced minimum stamina required to jump and climb. (From 15 to 12).
+
+*Increased firing recoil. (x2 recoil as before).
+
+*Added ammunition system. Press "Y" to check your ammo and "R" to reload when empty.
+
+*Added sound effect when aiming.
+
+*Added sound effect when weapon is dry firing.
+
+*Added sound effect when reloading or checking ammo.
+
+*Added sound effect when zombies are chasing.
+
+*Now the reticle dot only appears when aiming.
+
+*Added zoom when aiming.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #Version | v0.0.1.2 | 19/03/2026 
 
 *Added the second iteration of the map "Faer". The landscape was totally remade from a scratch and now it showcases ruined buildings and a couple of main roads.
