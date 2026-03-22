@@ -16,7 +16,8 @@ Changelog:
 
 *Increased firing recoil. (x2 recoil as before).
 
-*Added ammunition system. Press "Y" to check your ammo and "R" to reload when empty.
+*Added ammunition system. Press "Y" to check your ammo and "R" to reload when empty. Ammo count only shows when checking your mag or after reloading. For now, it shows yous all your ammo but in
+the future will only show you an aproximation of your current mag.
 
 *Added sound effect when aiming.
 
